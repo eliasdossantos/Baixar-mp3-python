@@ -5,9 +5,9 @@ import re
 import os
 
 # Instalação das biblioteca do python pelo cmd ou o PowerShell com os comandos abaixo
-# pip install pytube
-# pip install moviepy
-# pip shell
+# python -m pip install pytube
+# python -m pip install moviepy
+# python -m pip shell
 
 # Digite o link do video e a pasta que deseja salvar o mp3:
 link = input("Digite o link do video que deseja baixar: ")
